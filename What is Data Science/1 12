@@ -1,0 +1,54 @@
+Data Collection & Storage -> Data Preparation -> Exploration & Visualisation -> Experimentation and Prediction.
+
+1. Data Engineer
+
+  control the flow of data
+  build data pipelines and storage solutions
+  maintain data access
+  
+  focus on the first stage -> data collection and storage. 
+  
+  Tools.
+  	SQL -> to store and organize data
+  	Java Scala or Python -> process data.
+  	Shell -> command line to automate and run tasks.
+  	*Cloud computing ->AWS,Azure,Google Platform 
+  	Need of the hour as large amounts of data being dumped onto 	      these platforms.
+  	
+2. Data Analyst
+
+   perform analyses that describe data
+   Create reports and dashboards
+   
+   Data preparation, exploration & visualisation
+   
+   Tools
+   	SQL
+   	Spreadsheet 
+   		Simple analysis
+   	BI tools
+   		(Tableau, Power BI, Looker)
+   	May have Python/R.
+
+3. Data scientist
+	
+   Versed in statistical methods.
+   Run experiments and analyses for insights.
+   Traditional machine learning
+   Last 3 stages in focus.
+   
+   Tools
+   	SQL
+   	Python/R (pandas,tidyverse)
+
+4. Machine learning scientist
+	
+    Similar to data scientist with Machine learning speciality.
+    predictions and extrapolations.
+    classification.  
+    Deep learning
+    	Image classification
+    	
+    Tools
+    	Python/R
+    	Libraries like Tensorflow/Spark		
