@@ -1,0 +1,68 @@
+Data Collection and Storage
+	
+	collected by companies, 
+		web events
+			web click, conversion rate,
+		survey
+			surveys (net promoter score - how likely...)
+		customer data,logistics data,financial transactions
+		
+	open sources	
+		Data API's
+			application programming interface
+			request data over internet
+		public records
+			data.gov,
+			
+2. Type of data
+	Important when you want to store them,
+	when visualising or analysing them,
+	
+	
+	quantitative data
+		deals with numbers.
+		measurable
+		
+	qualitative
+		deals with descriptions.
+		data can be observed but not measured.
+		(images,gender,eye color,reviews)
+		
+		ex. fridge.
+		quantitative 
+			-length
+			-storage capacity
+		qualitative
+			-red
+			-built in italy
+	
+	image data
+	text data
+	geospatial data
+	network data
+
+
+3. Things to consider while storing the data
+	
+	Location
+		-could require large amounts of data.	
+		-parallel storage
+		-cloud storage
+		
+Data Pipelines - task of a data engineer
+
+	move data into some defined stages
+	like loading into db
+	data ingestion from an API
+	automating processes like these
+		these tasks are automated
+		triggered by an event 
+	Type of data
+	Retrieval
+	
+ETL
+	extract transform load
+	extracting from different sources
+	tranforming into one by 
+		converting data structures to fit database schema
+		removing irrelevant data.
