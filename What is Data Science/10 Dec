@@ -1,0 +1,14 @@
+Experiments 
+
+	A/B testing - champions challenger testing
+	to choose the best between two things.
+
+	We calculate this for a sample size and check the significance.
+	Statistical tests.
+		t-test,z-test,anova,chi-squared.
+		
+		Steps for A/B testing
+			Picking a metric to track
+			Calculating a sample size.
+			Running the experiment
+			Checking for significance
